@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  },
+  "name": "prueba-tecnica-resumida",
+  "version": "1.0.0",
+  "description": "Prueba tecnica usando solo cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "egonzalez",
+  "license": "ISC"
+}
